@@ -3,3 +3,4 @@
 2-assembler outputs with the file extension .s
 3-was added to output file cisfun
 4-puts.c added to output some code
+5-printf.c added to output some code using printf
