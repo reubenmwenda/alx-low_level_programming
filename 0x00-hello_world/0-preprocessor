@@ -1,3 +1,2 @@
 #!/bin/bash
-echo $CFILE > c 
-
+echo $CFILE > c
