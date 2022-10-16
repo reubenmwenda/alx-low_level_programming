@@ -4,7 +4,7 @@
  *
  * Return: returns 0 (Success)
  */
-int main(0)
+int main(void)
 {
 	/* Simple code to show alphabet*/
 	char string = 'a';
