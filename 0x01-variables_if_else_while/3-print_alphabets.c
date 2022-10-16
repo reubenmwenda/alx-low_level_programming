@@ -10,15 +10,20 @@ int main(void)
 	char string = 'a';
 	char big_string = 'A';
 
-	while (string <= 'z' && big_string <= 'Z')
+	while (string <= 'z')
 
 	{
 		putchar(string);
-		putchar(big_string);
 
 		string++;
+	}
+	while (big_string <= 'Z')
+	{
+		putchar(big_string);
+
 		big_string++;
 	}
+
 	putchar('\n');
 
 	return (0);
