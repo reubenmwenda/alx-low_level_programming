@@ -3,3 +3,4 @@
 2-print_alphabet.c puts out alphabet
 3-print_alphabets prints all alphabets large and small
 4-print_alphabt.c prints all alphabets minus e and q
+5-print_numbers prints numbers 0 to 9
