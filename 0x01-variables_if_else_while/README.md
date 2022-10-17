@@ -6,3 +6,4 @@
 5-print_numbers prints numbers 0 to 9
 6-print_numberz prints numbers 0 to 9 using putchar
 7-print_tebahpla.c prints alphabet backwards using putchar
+8-print_base16.c prints hexadecimal numbers using putchar
