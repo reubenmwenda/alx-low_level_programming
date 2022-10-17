@@ -4,3 +4,4 @@
 3-print_alphabets prints all alphabets large and small
 4-print_alphabt.c prints all alphabets minus e and q
 5-print_numbers prints numbers 0 to 9
+6-print_numberz prints numbers 0 to 9 using putchar
