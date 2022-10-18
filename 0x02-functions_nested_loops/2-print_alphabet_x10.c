@@ -14,13 +14,13 @@ void print_alphabet_x10(void)
 
 		while (string <= 'z')
 		{
-			putchar(string);
+			_putchar(string);
 			string++;
 
 		}
 
 		times++;
-		putchar('\n');
+		_putchar('\n');
 	}
 
 }
