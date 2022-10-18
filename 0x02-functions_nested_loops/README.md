@@ -5,3 +5,4 @@
 4-isalpha.c checks for small letters and large too
 5-sign.c shows numbers greater equal or smaller than 0
 6-abs.c outputs absolute values
+7-print_last_digit.c outputs last number of values
