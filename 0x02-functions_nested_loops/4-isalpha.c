@@ -1,6 +1,4 @@
 #include "main.h"
-#include <stdio.h>
-
 /**
  * _isalpha - Entry point
  * @c: I mean it does something
