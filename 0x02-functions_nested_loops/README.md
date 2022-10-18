@@ -4,3 +4,4 @@
 3-islower.c checks for small letters
 4-isalpha.c checks for small letters and large too
 5-sign.c shows numbers greater equal or smaller than 0
+6-abs.c outputs absolute values
