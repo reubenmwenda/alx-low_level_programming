@@ -6,3 +6,4 @@
 5-sign.c shows numbers greater equal or smaller than 0
 6-abs.c outputs absolute values
 7-print_last_digit.c outputs last number of values
+ 10-add.c is here to add integers
