@@ -14,5 +14,4 @@ void print_line(int n)
 	{
 		_putchar(95);
 	}
-	return (0);
 }
