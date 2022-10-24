@@ -4,3 +4,4 @@
 3-print_numbers.c prints 0 to 9
 4-print_most_numbers.c prints 0 to 9 minus 2 and 4
 5-more_numbers.c prints 0 to 14
+6-print_line.c prints lines
